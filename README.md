@@ -1,1 +1,3 @@
-## Practice Basic Frontend Material and TailwindCSS Framework, Academy 2024
+## Academy 2024 - Daskom Laboratory
+
+**Practice Basic Frontend Material and TailwindCSS Framework**
