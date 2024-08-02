@@ -8,7 +8,6 @@ This repository contains examples and practice projects created for the Academy 
 
 ## Directory Structure
 
-
 ```
 Academy24-FE-Training/
 │
@@ -90,6 +89,7 @@ This folder features a login page built with TailwindCSS and includes:
 - `package.json`: Defines project dependencies and scripts.
 - `tailwind.config.js`: TailwindCSS configuration file.
 
+
 ## Getting Started
 
 To get started with this project, follow these steps:
@@ -97,12 +97,14 @@ To get started with this project, follow these steps:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/Academy24-FE-Training.git
+   git clone https://github.com/Zaidanfzn/Academy24-FE-Training.git
+   ```
 
 2. **Navigate to the Project Directory**
 
    ```bash
    cd Academy24-FE-Training
+   ```
 
 3. **Set Up Basic FE**
    
@@ -111,6 +113,7 @@ To get started with this project, follow these steps:
     ```bash
     cd Basic\ FE
     open index.html
+    ```
 
     You can also use a local server or editor to view and edit the files.
 
@@ -121,11 +124,13 @@ To get started with this project, follow these steps:
     ```bash
     cd ../Framework\ TailwindCSS
     npm install
-
+    ```
+   
     Start the development server:
 
     ```bash
     npm run dev
+    ```
 
     Open public/index.html in your browser to view the login page.
 
@@ -135,12 +140,7 @@ Feel free to contribute to this repository by submitting pull requests. For any 
 
 
 ## Acknowledgements
-Thank you for your interest in this project. We hope these examples help you in your learning journey. We look forward to seeing your progress and contributions!
+Thank you for your interest in this project. I hope these examples help you in your learning journey. I look forward to seeing your progress and contributions!
 
-
-### Notes
-
-- Adjust the `git clone` URL to match the actual repository URL.
-- The `Getting Started` section now includes instructions to clone the repository, navigate directories, and set up the projects.
-
-> *An academy created for newcomers from the class of 2024 to become future stars*
+**Happy Coding!**
+*An academy created for newcomers from the class of 2024 to become future stars*
