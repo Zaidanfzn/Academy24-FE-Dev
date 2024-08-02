@@ -142,5 +142,4 @@ Feel free to contribute to this repository by submitting pull requests. For any 
 ## Acknowledgements
 Thank you for your interest in this project. I hope these examples help you in your learning journey. I look forward to seeing your progress and contributions!
 
-**Happy Coding!**
-*An academy created for newcomers from the class of 2024 to become future stars*
+**Academy 2024** : *An academy created for newcomers from the class of 2024 to become future stars*
